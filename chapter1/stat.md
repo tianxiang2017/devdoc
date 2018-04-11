@@ -49,7 +49,7 @@
 | report06 | report | 周 | 安装的Android APP数量 | 当前时刻 | 周一 9:00:00 | 已完成设备注册功能 |
 | report07 | report | 周 | 已激活Touch数量 | 当前时刻 | 周一 9:00:00 | 已完成设备注册功能 |
 | report08 | report | 周 | 安装Cube数量 | 当前时刻 | 周一 9:00:00 | 已完成设备注册功能 |
-| report09 | report | 周 | 安装Cube数量 | 当前时刻 | 周一 9:00:00 | 已完成设备注册功能 |
+| report09 | report | 周 | 在线用户数 | 当前时刻 | 周一 9:00:00 | 当前在线用户数，登录状态为1 |
 | report10 | report | 周 | 在线ios数 | 当前时刻 | 周一 9:00:00 | 当前在线ios数，登录状态为1 |
 | report11 | report | 周 | 在线android数 | 当前时刻 | 周一 9:00:00 | 当前在线android数，登录状态为1 |
 | report12 | report | 周 | 在线touch数 | 当前时刻 | 周一 9:00:00 | 当前在线touch数，登录状态为1 |
