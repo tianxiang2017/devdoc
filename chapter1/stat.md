@@ -57,6 +57,7 @@
 | report10 | report | 周 | 在线ios数 | 当前时刻 | 周一 9:00:00 | 当前在线ios数，登录状态为1 |
 | report11 | report | 周 | 在线android数 | 当前时刻 | 周一 9:00:00 | 当前在线android数，登录状态为1 |
 | report12 | report | 周 | 在线touch数 | 当前时刻 | 周一 9:00:00 | 当前在线touch数，登录状态为1 |
+| report13 | report | 日 | touch日活跃用户数 | 前一天 | 每天 3：00:00 |  |
 | report14 | report | 日 | android日活跃用户数 | 前一天 | 每天 3：00:00 |  |
 | report15 | report | 日 | ios日活跃用户数 | 前一天 | 每天 3：00:00 |  |
 
